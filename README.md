@@ -222,7 +222,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 ## 👨‍💻 Geliştirici
 
-**[Adınız]** - *Full Stack Developer*
+**[Ahmet ALTUN]** - *Full Stack Developer*
 - GitHub: [@biyonik](https://github.com/biyonik)
 - LinkedIn: [Ahmet ALTUN](https://linkedin.com/in/biyonik)
 
